@@ -2,7 +2,7 @@
 
 AI Knowledge Center Assignment
 
-Approach: Assess data.gov site and annotate design patterns that seem effective for the assignment, an Artificial Reality Knowledge Center platform.
+Approach: Assess data.gov site and annotate design patterns that seem effective for the assignment, an Artificial Reality Knowledge Center platform. Create simple sitemap and 2 wireframes to illustrate ideas.
 
 The first four pages of the PDF detail the annotations. I found that resources.data.gov had a lot of design patterns and subject matter that I found would align well with the AI site, as the goal was to not only have open source data but to feature examples of the data being used in an effective way, and for the user to be aware of guidelines and tools that they could leverage before trying to create their own solutions.
 
